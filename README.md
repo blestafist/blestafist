@@ -1,1 +1,1 @@
-[![GitHub Stats](https://ghstats.dev/api/card?username=ilyamiro\&theme=catppuccin)](https://github.com/ilyamiro)
+[![GitHub Stats](https://ghstats.dev/api/card?username=blestafist\&theme=catppuccin)](https://github.com/blestafist)
