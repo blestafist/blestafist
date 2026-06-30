@@ -1,1 +1,1 @@
-[![GitHub Stats](https://ghstats.dev/api/card?username=blestafist\&theme=catppuccin)](https://github.com/blestafist)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=blestafist&theme=gruvbox&hide_title=true&border_radius=10.5&custom_title=Welcome%2C+ufw&hide=stars%2Cprs%2Ccontributions%2Cgrade%2Cweek%2Cissues%2Cactive_day%2Cavg)
